@@ -42,5 +42,5 @@ This project is based on OpenZeppelin's ERC20 implementation and is distributed 
 ---
 
 ## Resources
-- [EXEX-Paper (PDF)](./docs/EXEX-Paper.pdf)  
+- [EXEX-Paper (PDF)](./EXEX-Paper.pdf)  
 - [EXEX-Overview (Google Sheets)](https://docs.google.com/spreadsheets/d/1nwk5pK45Us0TKfEk0bPxAEozWY_piRR75RK-A4Qk73I/edit?gid=105019620#gid=105019620)
